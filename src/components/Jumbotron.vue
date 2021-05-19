@@ -10,7 +10,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 .jumbotron-box{
   height: 200px;
